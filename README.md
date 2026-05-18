@@ -96,7 +96,107 @@ Durante o desenvolvimento deste projeto, o foco principal tem sido o aprimoramen
 
 # Screenshots
 
-> Screenshots da aplicação serão adicionadas em breve.
+# Screenshots
+
+## Página Inicial
+
+A primeira experiência do usuário com a plataforma.
+
+<p align="center">
+  <img src="./assets/pagina-principal.png" width="100%" />
+</p>
+
+---
+
+## Catálogo de Produtos e Serviços
+
+Visualização dos serviços e produtos disponíveis para o cliente.
+
+<p align="center">
+  <img src="./assets/catalogo-de-produtos-servicos.png" width="100%" />
+</p>
+
+---
+
+## Solicitação de Orçamento
+
+Fluxo de solicitação de pedidos e orçamento da plataforma.
+
+<p align="center">
+  <img src="./assets/orcamento.png" width="100%" />
+</p>
+
+---
+
+## Área do Cliente
+
+Área destinada ao acompanhamento e gerenciamento das informações do cliente.
+
+<p align="center">
+  <img src="./assets/area-do-cliente.png" width="100%" />
+</p>
+
+---
+
+## Painel Administrativo
+
+Visão administrativa central da aplicação para gerenciamento interno.
+
+<p align="center">
+  <img src="./assets/paine-admin.png" width="100%" />
+</p>
+
+---
+
+## Gestão de Pedidos
+
+Controle e gerenciamento operacional dos pedidos realizados.
+
+<p align="center">
+  <img src="./assets/gestao-de-pedidos.png" width="48%" />
+  <img src="./assets/gestao-concluidos.png" width="48%" />
+</p>
+
+---
+
+## Gerenciamento do Catálogo
+
+Administração de produtos e serviços disponíveis na plataforma.
+
+<p align="center">
+  <img src="./assets/catalogo-admin.png" width="100%" />
+</p>
+
+---
+
+## Cadastro de Produtos e Serviços
+
+Fluxo administrativo para criação e gerenciamento de itens do sistema.
+
+<p align="center">
+  <img src="./assets/cadastrar-produto.png" width="48%" />
+  <img src="./assets/cadastrar-servico.png" width="48%" />
+</p>
+
+---
+
+## Sobre a Plataforma
+
+Página institucional apresentando propósito e informações do sistema.
+
+<p align="center">
+  <img src="./assets/sobre.png" width="100%" />
+</p>
+
+---
+
+## Identidade Visual e Footer
+
+Elementos finais de navegação e identidade visual da aplicação.
+
+<p align="center">
+  <img src="./assets/footer.png" width="100%" />
+</p>
 
 ---
 
