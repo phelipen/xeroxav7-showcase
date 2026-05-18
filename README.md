@@ -7,7 +7,6 @@ Aplicação web full-stack desenvolvida para modernizar e otimizar o gerenciamen
     <img src="https://img.shields.io/badge/Acessar%20Projeto-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Arquitetura-Escalável-blue?style=for-the-badge" />
 </p>
 
 ---
