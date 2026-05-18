@@ -66,22 +66,6 @@ O projeto vem sendo utilizado como principal ambiente de estudo e desenvolviment
 
 ---
 
-# Arquitetura do Sistema
-
-```text
-Frontend (React)
-       ↓
-API REST (Spring Boot)
-       ↓
-Camada de Regras de Negócio
-       ↓
-PostgreSQL
-       ↓
-Docker & Infraestrutura Cloud
-```
-
----
-
 # Objetivos do Projeto
 
 O XeroxAV.7 está em constante evolução com foco em:
@@ -164,7 +148,7 @@ Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento 
 ### Contato
 
 - LinkedIn: https://www.linkedin.com/in/phelipe-nascimento-
-- GitHub: https://github.com/SEUUSUARIO
+- GitHub: https://github.com/phelipen
 
 ---
 
