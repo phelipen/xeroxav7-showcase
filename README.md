@@ -128,6 +128,14 @@ Ferramenta core do sistema onde o cliente faz upload do arquivo e o cálculo do 
 
 Área restrita para a gestão completa do negócio, catálogo e pedidos.
 
+### Visão Geral do Painel
+Página inicial da área restrita, servindo como central de comando para acessar a gestão de pedidos, serviços e categorias.
+<p align="center">
+  <img src="./assets/{6ED71618-C49E-4B08-BDD5-1B06FD968F07}.png" width="100%" />
+</p>
+
+---
+
 ### Gestão do Catálogo
 Visão geral de todos os produtos e serviços cadastrados, com opções rápidas de filtro, edição e ativação/desativação.
 <p align="center">
