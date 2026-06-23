@@ -103,7 +103,7 @@ A experiência do usuário final, desde a navegação inicial até a realizaçã
 ### Página Inicial
 A primeira experiência do usuário com a plataforma.
 <p align="center">
-  <img src="./assets/Screenshot_7.jpg" width="100%" />
+  <img src="./assets/Screenshot_7.png" width="100%" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ A primeira experiência do usuário com a plataforma.
 ### Catálogo de Produtos e Serviços
 Navegação fluida pelo catálogo com filtros por categorias (ex: Vestuário, Papelaria).
 <p align="center">
-  <img src="./assets/Screenshot_8.jpg" width="100%" />
+  <img src="./assets/Screenshot_8.png" width="100%" />
 </p>
 
 ---
@@ -119,7 +119,7 @@ Navegação fluida pelo catálogo com filtros por categorias (ex: Vestuário, Pa
 ### Orçamento Instantâneo
 Ferramenta core do sistema onde o cliente faz upload do arquivo e o cálculo do valor é feito na hora, com base em tamanho, tipo de papel e cores.
 <p align="center">
-  <img src="./assets/Screenshot_9.jpg" width="100%" />
+  <img src="./assets/Screenshot_9.png" width="100%" />
 </p>
 
 ---
@@ -148,7 +148,7 @@ Fluxos administrativos dedicados para criação e gerenciamento de itens físico
 ### Gestão de Categorias
 Controle da organização do catálogo público, permitindo reordenar, criar e desativar seções inteiras.
 <p align="center">
-  <img src="./assets/Screenshot_3.jpg" width="100%" />
+  <img src="./assets/Screenshot_3.png" width="100%" />
 </p>
 
 ---
@@ -156,8 +156,8 @@ Controle da organização do catálogo público, permitindo reordenar, criar e d
 ### Gestão de Pedidos
 Acompanhamento em tempo real das solicitações dos clientes, atualização de status e histórico completo dos atendimentos já finalizados.
 <p align="center">
-  <img src="./assets/Screenshot_1.jpg" width="48%" />
-  <img src="./assets/Screenshot_2.jpg" width="48%" />
+  <img src="./assets/Screenshot_1.png" width="48%" />
+  <img src="./assets/Screenshot_2.png" width="48%" />
 </p>
 
 ---
