@@ -96,106 +96,68 @@ Durante o desenvolvimento deste projeto, o foco principal tem sido o aprimoramen
 
 # Screenshots
 
-# Screenshots
+## 👤 Visão do Cliente
 
-## Página Inicial
+A experiência do usuário final, desde a navegação inicial até a realização de orçamentos e compras.
 
+### Página Inicial
 A primeira experiência do usuário com a plataforma.
-
 <p align="center">
-  <img src="./assets/pagina-principal.png" width="100%" />
+  <img src="./assets/Screenshot_7.jpg" width="100%" />
 </p>
 
 ---
 
-## Catálogo de Produtos e Serviços
-
-Visualização dos serviços e produtos disponíveis para o cliente.
-
+### Catálogo de Produtos e Serviços
+Navegação fluida pelo catálogo com filtros por categorias (ex: Vestuário, Papelaria).
 <p align="center">
-  <img src="./assets/catalogo-de-produtos-servicos.png" width="100%" />
+  <img src="./assets/Screenshot_8.jpg" width="100%" />
 </p>
 
 ---
 
-## Solicitação de Orçamento
-
-Fluxo de solicitação de pedidos e orçamento da plataforma.
-
+### Orçamento Instantâneo
+Ferramenta core do sistema onde o cliente faz upload do arquivo e o cálculo do valor é feito na hora, com base em tamanho, tipo de papel e cores.
 <p align="center">
-  <img src="./assets/orcamento.png" width="100%" />
+  <img src="./assets/Screenshot_9.jpg" width="100%" />
 </p>
 
 ---
 
-## Área do Cliente
+## ⚙️ Painel Administrativo
 
-Área destinada ao acompanhamento e gerenciamento das informações do cliente.
+Área restrita para a gestão completa do negócio, catálogo e pedidos.
 
+### Gestão do Catálogo
+Visão geral de todos os produtos e serviços cadastrados, com opções rápidas de filtro, edição e ativação/desativação.
 <p align="center">
-  <img src="./assets/area-do-cliente.png" width="100%" />
+  <img src="./assets/Screenshot_4.png" width="100%" />
 </p>
 
 ---
 
-## Painel Administrativo
-
-Visão administrativa central da aplicação para gerenciamento interno.
-
+### Cadastro de Produtos e Serviços
+Fluxos administrativos dedicados para criação e gerenciamento de itens físicos (com controle de estoque e promoção) e serviços dinâmicos (com simulação de orçamento).
 <p align="center">
-  <img src="./assets/paine-admin.png" width="100%" />
+  <img src="./assets/Screenshot_5.png" width="48%" />
+  <img src="./assets/Screenshot_6.png" width="48%" />
 </p>
 
 ---
 
-## Gestão de Pedidos
-
-Controle e gerenciamento operacional dos pedidos realizados.
-
+### Gestão de Categorias
+Controle da organização do catálogo público, permitindo reordenar, criar e desativar seções inteiras.
 <p align="center">
-  <img src="./assets/gestao-de-pedidos.png" width="48%" />
-  <img src="./assets/gestao-concluidos.png" width="48%" />
+  <img src="./assets/Screenshot_3.jpg" width="100%" />
 </p>
 
 ---
 
-## Gerenciamento do Catálogo
-
-Administração de produtos e serviços disponíveis na plataforma.
-
+### Gestão de Pedidos
+Acompanhamento em tempo real das solicitações dos clientes, atualização de status e histórico completo dos atendimentos já finalizados.
 <p align="center">
-  <img src="./assets/catalogo-admin.png" width="100%" />
-</p>
-
----
-
-## Cadastro de Produtos e Serviços
-
-Fluxo administrativo para criação e gerenciamento de itens do sistema.
-
-<p align="center">
-  <img src="./assets/cadastrar-produto.png" width="48%" />
-  <img src="./assets/cadastrar-servico.png" width="48%" />
-</p>
-
----
-
-## Sobre a Plataforma
-
-Página institucional apresentando propósito e informações do sistema.
-
-<p align="center">
-  <img src="./assets/sobre.png" width="100%" />
-</p>
-
----
-
-## Identidade Visual e Footer
-
-Elementos finais de navegação e identidade visual da aplicação.
-
-<p align="center">
-  <img src="./assets/footer.png" width="100%" />
+  <img src="./assets/Screenshot_1.jpg" width="48%" />
+  <img src="./assets/Screenshot_2.jpg" width="48%" />
 </p>
 
 ---
@@ -221,36 +183,3 @@ Parte do código-fonte, regras de negócio internas e detalhes de infraestrutura
 + Projeto em desenvolvimento ativo
 + Ambiente de produção funcionando
 + Melhorias de arquitetura em andamento
-```
-
----
-
-# Próximos Passos
-
-- Evolução para arquitetura mais modular
-- Melhorias de performance
-- Estudos com microserviços
-- Estratégias de cache
-- Implementação de CI/CD
-- Melhorias de observabilidade
-- Recursos assistidos por IA
-- Evolução da infraestrutura cloud
-
----
-
-# Autor
-
-## Phelipe Nascimento
-
-Estudante de Análise e Desenvolvimento de Sistemas com foco em desenvolvimento backend, arquitetura escalável e aplicações full-stack modernas.
-
-### Contato
-
-- LinkedIn: https://www.linkedin.com/in/phelipe-nascimento-
-- GitHub: https://github.com/phelipen
-
----
-
-<p align="center">
-  Desenvolvido com foco em engenharia de software, escalabilidade e aprendizado contínuo.
-</p>
